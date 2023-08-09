@@ -6,6 +6,6 @@ int main(){
     cin>>a;
     cout<<" enter the second number: ";
     cin>>b;
-    return a+b;
+cout<<a+b;
 
 }
